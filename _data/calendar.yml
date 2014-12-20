@@ -1,6 +1,6 @@
 dates_of_instruction:
-  start: "2014-09-24"
-  end:   "2014-12-12"
+  start: "2015-01-05"
+  end:   "2015-03-13"
 
 locations:
   lectures:
@@ -39,16 +39,18 @@ holidays:
     name: "Thanksgiving"
 
 lectures:
-  - date: "2014-09-25"
+  - date: "2015-01-06"
     name: "Introduction,<br>Project Overview,<br>and Personal Informatics"
     slides: "slides/lecture/l01-intro.pdf"
-  - date: "2014-09-30"
-    name: "Design of Everyday Things"
-    slides: "slides/lecture/l02-doet.pdf"
-  - date: "2014-10-02"
+  - date: "2015-01-08"
+    name: "Brainstorming"
+  - date: "2015-01-13"
     name: "Contextual Inquiry"
     slides: "slides/lecture/l03-contextualinquiry.pdf"
     # notes: "Required for Project 2a, CI Planning Over Weekend"
+  - date: "2015-01-15"
+    name: "Design of Everyday Things"
+    slides: "slides/lecture/l02-doet.pdf"
   - date: "2014-10-07"
     name: "Critique"
     slides: "slides/lecture/l04-critique.pdf"

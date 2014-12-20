@@ -2,11 +2,15 @@
 layout: default
 ---
 
-# CSE 440 - Introduction to HCI
+---
 
-## Autumn 2014
+# CSE 440: Introduction to Human Computer Interaction
 
-# Course Description
+#### WINTER 2015
+
+---
+
+## Course Description
 
 This course provides an introduction to human-computer interaction and the design process. 
 It is overwhelmingly organized around a group project, in which students:
@@ -17,7 +21,7 @@ It is overwhelmingly organized around a group project, in which students:
 - Evaluate and Improve a Design
 - Communicate their Problem and Resulting Design
 
-## Project Theme
+### Project Theme
 
 Projects are exploring challenges and opportunities in Personal Informatics:
 
@@ -29,7 +33,7 @@ Projects are exploring challenges and opportunities in Personal Informatics:
 People have long sought to better understand themselves, but recently technology advances are enabling fundamentally new approaches. 
 Students will explore the problems people encounter and how new technology can help people reaching their goals. 
 
-## Project Structure
+### Project Structure
 
 Projects are organized around four assignments, each consistent of several milestones:
 
@@ -47,7 +51,10 @@ Example project from prior offerings include:
 Note the project structure has changed since these prior offerings, so their reports do not map to the current project.
 However, these represent examples of strong work in this course.
 
-# Basic Information
+
+---
+
+## Basic Information
 
 __Contact__: Email all instructors at cse440-instr [at] cs.washington.edu
 
@@ -66,11 +73,32 @@ Other meetings by appointment.
 
 __Course Staff__:
 
-|![James Fogarty](images/james_photo.jpg)| ![Daniel Epstein](images/daniel_photo.jpg)|![Brad Jacobson](images/brad_photo.jpg)|![King Xia](images/king_photo.jpg)|
-|----------------------------------------|-------------------------------------------|------------------------------------------|----------------------------------|
-|James Fogarty (course instructor)       |Daniel Epstein (head teaching assistant)   |Brad Jacobson (teaching assistant)    |King Xia (teaching assistant)     |
+<html>
+<table width="60%">
+<tr>
+<td style="padding:0 20px 0 0;"> <img src="images/james_photo.jpg"> </td>
+<td style="padding:0 20px 0 0;"> <img src="images/daniel_photo.jpg"> </td>
+<td style="padding:0 20px 0 0;"> <img src="images/brad_photo.jpg"> </td>
+<td style="padding:0 20px 0 0;"> <img src="images/king_photo.jpg"> </td>
+</tr>
+<tr>
+<td> Maya Cakmak </td>
+<td> Matt Kay </td>
+<td> Brad Jacobson </td>
+<td> King Xia </td>
+</tr>
+<tr>
+<td style="vertical-align: top;"> Course instructor </td>
+<td style="vertical-align: top;"> Head teaching assistant </td>
+<td style="vertical-align: top;"> Teaching assistant </td>
+<td style="vertical-align: top;"> Teaching assistant </td>
+</tr>
+</table>
+</html>
 
-# Grading
+---
+
+## Grading
 
 The overall course grade will be computed as follows:
 
@@ -106,7 +134,7 @@ The bulk of project grades is therefore attached to the final deliverables, whic
 
 <a name="submission"></a>
 
-# Submission
+## Submission
 
 Many assignments are due "the night before class". Catalyst implements this as 4:00am.
 
@@ -117,34 +145,3 @@ Submissions should be in PDF format (i.e., not plain text, not Word).
 The PDF should be 'printable', containing everything we need to review and grade the assignment (e.g., your name).
 The course staff has a large number of submissions to manage, so format and completeness issues are problematic.
 
-<a name="projects"></a>
-
-# Quarter Projects
-
-The projects for this quarter are available below.
-
-[Aqueous](projects/aqueous/)
-
-[Awearness](projects/awearness/)
-
-[Band-It](projects/bandit/)
-
-[DisTrack](projects/distrack/)
-
-[GroupShop](projects/groupshop/)
-
-[IEP Connect](projects/iepconnect/)
-
-[Ka-ching](projects/kaching/)
-
-[Koala](projects/koala/)
-
-[Running With Friends](projects/runningwithfriends/)
-
-[SoundScape](projects/soundscape/)
-
-# Contributing
-
-This course website is a [github repository](https://github.com/uwcse440/web-cse440-au14)! You can submit pull requests to update the webpage.
-
-We have provided [instructions](contributing.html) on how to set up your computer to contribute.

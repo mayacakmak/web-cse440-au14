@@ -764,19 +764,23 @@ h3 {
 }
 
 h1 {
-  font-size: 38.5px;
+  font-size: 32px;
 }
 
 h2 {
-  font-size: 31.5px;
+  font-size: 30px;
+  font-weight: 200;
 }
 
 h3 {
-  font-size: 24.5px;
+  font-size: 20px;
+  font-weight: 600;
+  color: #333333;
 }
 
 h4 {
-  font-size: 17.5px;
+  font-size: 32px;
+  color: #999999;
 }
 
 h5 {

@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Calendar
 ---
 
 {% comment %} Starting from the first date of instruction, find Sunday {% endcomment %}
@@ -23,6 +22,10 @@ title: Calendar
 
 {% comment %} How many days are in our calendar {% endcomment %}
 {% assign numdays = enddateseconds | minus: startdateseconds | divided_by: 86400 %}
+
+---
+
+# Calendar
 
 <table class="calendar table table-bordered">
   {% for currentdaynum in (0..numdays) %}
