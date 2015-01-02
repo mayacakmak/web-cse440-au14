@@ -9,11 +9,10 @@ link_reading_research: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
 
 ---
 
-# Overview
+# Readings
 
 Assigned readings are worth __5%__ of your overall course grade. 
-
-We expect to assign approximately five readings over the length of the quarter.
+We will assign five readings over the length of the quarter.
 Each assigned reading has a corresponding open-ended question that will be submitted and graded.
 We have set reading deadlines that give you the flexibility to read before or after the related lectures.
 Do whichever is best for your personal learning style.
@@ -24,9 +23,9 @@ They will be graded according to whether they provide evidence you understood an
 
 We will make additional resources available for students to read as interested.
 
-# Assigned Readings
+## Assigned Readings
 
-### Reading 1: Contextual Inquiry
+### Reading 1: Contextual Inquiry [Due: ]
 <a name="contextual_inquiry"></a>
 
 - [Beyer and Holtzblatt (1997). Contextual Design. Chapter 3.]({{ site.baseurl }}/readings/ContextualInquiry-BeyerHoltzblatt1997.pdf)
@@ -48,6 +47,7 @@ We will make additional resources available for students to read as interested.
   Submit via Catalyst here:
   
   {% if page.link_reading_contextual_inquiry != nil %}<{{ page.link_reading_contextual_inquiry }}>{% else %}`Catalyst link to be added`{% endif %}
+
 
 ### Reading 2: Critique and Teamwork
 <a name="critique"></a>
@@ -71,6 +71,7 @@ We will make additional resources available for students to read as interested.
   Submit via Catalyst here:
   
   {% if page.link_reading_contextual_inquiry != nil %}<{{ page.link_reading_contextual_inquiry }}>{% else %}`Catalyst link to be added`{% endif %}
+
 
 ### Reading 3: Prototyping Videos
 <a name="prototypingvideos"></a>
