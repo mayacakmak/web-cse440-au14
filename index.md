@@ -40,9 +40,12 @@ __Course Staff__:
 
 __Contact__: Email all instructors at cse440-instr [at] cs.washington.edu
 
-__Class times & locations__: Tuesdays & Thursdays, 10:30-11:50am EEB 045
+__Class times & locations__: Tuesdays & Thursdays, 10:30-11:50am at EEB 045
 
-__Section times & locations__: Fridays, 10:30-11:20 (Section A) or 1:30-2:20 (Section B)
+__Section times & locations__: Fridays, two separate sections:
+
+- Section A: 10:30-11:20am at MGH 287
+- Section B: 1:30-2:20pm at MGH 254
 
 __Office Hours__:  Scheduled hours are held most weeks, but check the calendar. Other meetings by appointment.
 

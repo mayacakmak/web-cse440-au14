@@ -87,14 +87,11 @@ officehours:
     location: officehoursmaya
 
 assignments:
-  - date: "2015-01-06"
-    name: "1a - Proposal Brainstorm"
-    link: "assignments/assignment1/#project_brainstorm"
   - date: "2015-01-08"
-    name: "1b - Project Proposal"
+    name: "1a - Project Brainstorm & Proposal"
     link: "assignments/assignment1/#project_proposal"
   - date: "2015-01-09"
-    name: "1c - Project Bid"
+    name: "1b - Project Bid"
     link: "assignments/assignment1/#project_bid"
   - date: "2015-01-13"
     name: "2a - Project Ideation"
