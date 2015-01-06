@@ -3,10 +3,10 @@
 layout: default
 title: "Assignment 1: Project Proposal"
 
-link_project1a: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
-link_project1b: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994 
-link_project1c_projects: https://catalyst.uw.edu/gopost/area/jaf1978/133826
-link_project1c_bids: https://catalyst.uw.edu/webq/survey/jaf1978/248720
+link_project1a: https://Canvas.uw.edu/collectit/dropbox/jaf1978/32994
+link_project1b: https://Canvas.uw.edu/collectit/dropbox/jaf1978/32994 
+link_project1c_projects: https://Canvas.uw.edu/gopost/area/jaf1978/133826
+link_project1c_bids: https://Canvas.uw.edu/webq/survey/jaf1978/248720
 
 ---
 
@@ -24,9 +24,11 @@ This assignment is worth __5%__ of your overall course grade.
 
 This is an individual assignment, consisting of two milestones.
 
-* [Assignment 1a: Proposal Brainstorm & Proposal](#project_proposal)
+* [Assignment 1a: Project Ideas](#project_brainstorm) -- 2%
 
-* [Assignment 1b: Project Bid](#project_bid)
+* [Assignment 1b: Project Proposal](#project_proposal) -- 3%
+
+* [Assignment 1c: Project Bid](#project_bid) -- 0%
 
 ---
 
@@ -97,21 +99,35 @@ The course staff will select a subset of submitted proposals for sponsorship. Sp
 and students will then bid on the projects they want to pursue in this course. Your proposal is thus an effort to 
 convince both the staff and your classmates that a problem is interesting, tractable, and worthy of investigation.
 
-
 <a name="project_brainstorm"></a>
-<a name="project_proposal"></a>
 
 ---
 
-## Deliverable 1a: Project Brainstorm and Proposal -- Due: Jan 8
+## Deliverable 1a: Project Ideas -- Due: Jan 7th
 
-Due: Uploaded the night before section Friday, September 26, 2014
-
-Propose three ideas as starting points for brainstorming.
+Based on your in-class brainstorming and beyond, pick three of your favorite project ideas.
 Ensure the ideas are significantly different, not small variations on the same idea.
-Each idea should be a single sentence. 
+Write a single sentence describing the personal informatics problem that describes your idea.
+These should focus on the problem, not the solution.
 
 ### Submission
+
+Submit plain text via Canvas here:
+
+{% if page.link_project1a != nil %}<{{ page.link_project1b }}>{% else %}`Canvas link to be added`{% endif %}
+
+### Grading
+
+This deliverable is worth 2% of your grade based on the following criteria:
+
+1. __Provides three clearly stated project ideas focused on problem (not solution)__: (1.5% -- 0.5% for each)
+2. __The ideas are different from one another__: (0.5%)
+
+---
+
+## Deliverable 1b: Project Proposal -- Due: Jan 9th
+
+<a name="project_proposal"></a>
 
 In one paragraph, describe the problem and motivation. 
 This description should convince the reader that this is a difficult and interesting problem, worth spending a quarter considering. 
@@ -130,20 +146,21 @@ Ensure your report is appropriately clear and easy to read. This includes:
  - refer to the figures in the body of your text
  - check for typos, spelling, and grammar errors
 
-Be sure your presentation looks good:
+Pay attention to presentation:
 
  - choose appropriate colors, fonts, and styles
- - make liberal use of whitespace 
+ - make liberal use of whitespace
 
-No more than one page of text in PDF format.
+### Submission
+
+Submit a one-page PDF via Canvas here:
+
+{% if page.link_project1b != nil %}<{{ page.link_project1b }}>{% else %}`Canvas link to be added`{% endif %}
 
 Images do not count against your page limit, and are therefore effectively free. 
 You should embed images throughout your PDF, keeping them near the text that references them.
 The limit applies to the approximate amount of text you would have if all images were removed.
 
-Submit via Canvas here:
-
-{% if page.link_project1b != nil %}<{{ page.link_project1b }}>{% else %}`Catalyst link to be added`{% endif %}
 
 ### Grading
 
@@ -158,11 +175,11 @@ This proposal will be graded on a scale of __5 points__:
 
 ---
 
-## Deliverable 1b: Project Bid -- Due: Jan 9
+## Deliverable 1c: Project Bid -- Due: Jan 12
 
 Review the sponsored projects and course instructor comments regarding those projects:
 
-{% if page.link_project1c_projects != nil %}<{{ page.link_project1c_projects }}>{% else %}`Catalyst link to be added`{% endif %}
+{% if page.link_project1c_projects != nil %}<{{ page.link_project1c_projects }}>{% else %}`Canvas link to be added`{% endif %}
 
 You will submit a bid on projects and potential partners. Course staff will use your bids to assign projects and groups. 
 
@@ -170,7 +187,7 @@ You will submit a bid on projects and potential partners. Course staff will use 
 
 Submit your bid on projects and potential partners here:
 
-{% if page.link_project1c_bids != nil %}<{{ page.link_project1c_bids }}>{% else %}`Catalyst link to be added`{% endif %}
+{% if page.link_project1c_bids != nil %}<{{ page.link_project1c_bids }}>{% else %}`Canvas link to be added`{% endif %}
 
 ### Grading
 
