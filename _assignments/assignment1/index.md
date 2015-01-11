@@ -3,10 +3,9 @@
 layout: default
 title: "Assignment 1: Project Proposal"
 
-link_project1a: https://Canvas.uw.edu/collectit/dropbox/jaf1978/32994
-link_project1b: https://Canvas.uw.edu/collectit/dropbox/jaf1978/32994 
-link_project1c_projects: https://Canvas.uw.edu/gopost/area/jaf1978/133826
-link_project1c_bids: https://Canvas.uw.edu/webq/survey/jaf1978/248720
+link_assignment1a: https://canvas.uw.edu/courses/946041/assignments/2729102
+link_assignment1b: https://canvas.uw.edu/courses/946041/assignments/2729118
+link_assignment1c: https://canvas.uw.edu/courses/946041/quizzes/816121
 
 ---
 
@@ -24,11 +23,11 @@ This assignment is worth __5%__ of your overall course grade.
 
 This is an individual assignment, consisting of two milestones.
 
-* [Assignment 1a: Project Ideas](#project_brainstorm) -- 2%
+* [Assignment 1a: Project Ideas](#assignment1a) -- 2%
 
-* [Assignment 1b: Project Proposal](#project_proposal) -- 3%
+* [Assignment 1b: Project Proposal](#assignment1b) -- 3%
 
-* [Assignment 1c: Project Bid](#project_bid) -- 0%
+* [Assignment 1c: Project Bid](#assignment1c) -- 0%
 
 ---
 
@@ -99,11 +98,11 @@ The course staff will select a subset of submitted proposals for sponsorship. Sp
 and students will then bid on the projects they want to pursue in this course. Your proposal is thus an effort to 
 convince both the staff and your classmates that a problem is interesting, tractable, and worthy of investigation.
 
-<a name="project_brainstorm"></a>
+<a name="assignment1a"></a>
 
 ---
 
-## Deliverable 1a: Project Ideas -- Due: Jan 7th
+## Deliverable 1a: Project Ideas -- Due: Jan 8th, 4:00am
 
 Based on your in-class brainstorming and beyond, pick three of your favorite project ideas.
 Ensure the ideas are significantly different, not small variations on the same idea.
@@ -114,7 +113,7 @@ These should focus on the problem, not the solution.
 
 Submit plain text via Canvas here:
 
-{% if page.link_project1a != nil %}<{{ page.link_project1b }}>{% else %}`Canvas link to be added`{% endif %}
+{% if page.link_assignment1a != nil %}<{{ page.link_assignment1a }}>{% else %}`Canvas link to be added`{% endif %}
 
 ### Grading
 
@@ -123,11 +122,12 @@ This deliverable is worth 2% of your grade based on the following criteria:
 1. __Provides three clearly stated project ideas focused on problem (not solution)__: (1.5% -- 0.5% for each)
 2. __The ideas are different from one another__: (0.5%)
 
+
+<a name="assignment1b"></a>
+
 ---
 
-## Deliverable 1b: Project Proposal -- Due: Jan 9th
-
-<a name="project_proposal"></a>
+## Deliverable 1b: Project Proposal -- Due: Jan 10th, 4:00am
 
 In one paragraph, describe the problem and motivation. 
 This description should convince the reader that this is a difficult and interesting problem, worth spending a quarter considering. 
@@ -155,7 +155,7 @@ Pay attention to presentation:
 
 Submit a one-page PDF via Canvas here:
 
-{% if page.link_project1b != nil %}<{{ page.link_project1b }}>{% else %}`Canvas link to be added`{% endif %}
+{% if page.link_assignment1b != nil %}<{{ page.link_assignment1b }}>{% else %}`Canvas link to be added`{% endif %}
 
 Images do not count against your page limit, and are therefore effectively free. 
 You should embed images throughout your PDF, keeping them near the text that references them.
@@ -164,30 +164,27 @@ The limit applies to the approximate amount of text you would have if all images
 
 ### Grading
 
-This proposal will be graded on a scale of __5 points__:
+This deliverable is worth 2% of your grade based on the following criteria:
 
-1. __Problem and Motivation__: (3 points)
-2. __Analysis of Problem__: (3 points)
-3. __Novelty and Creativity__: (2 points)
-4. __Report Clarity and Presentation__: (2 points)
+1. __Problem and Motivation__ (0.5%)
+2. __Analysis of Problem__ (0.5%)
+3. __Novelty and Creativity__ (0.5%)
+4. __Report Clarity and Presentation__ (0.5%)
 
-<a name="project_bid"></a>
+
+<a name="assignment1c"></a>
 
 ---
 
-## Deliverable 1c: Project Bid -- Due: Jan 12
+## Deliverable 1c: Project Bid -- Due: Jan 12, 2:30pm
 
-Review the sponsored projects and course instructor comments regarding those projects:
-
-{% if page.link_project1c_projects != nil %}<{{ page.link_project1c_projects }}>{% else %}`Canvas link to be added`{% endif %}
-
-You will submit a bid on projects and potential partners. Course staff will use your bids to assign projects and groups. 
+Review the sponsored projects and submit a bid on projects and potential partners [here](../../projects.html).
 
 ### Submission
 
 Submit your bid on projects and potential partners here:
 
-{% if page.link_project1c_bids != nil %}<{{ page.link_project1c_bids }}>{% else %}`Canvas link to be added`{% endif %}
+{% if page.link_assignment1c != nil %}<{{ page.link_assignment1c }}>{% else %}`Canvas link to be added`{% endif %}
 
 ### Grading
 
