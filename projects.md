@@ -6,36 +6,48 @@ layout: default
 
 # Projects
 
-## Winter 2015 Project Proposals
+## Winter 2015 Projects
 
 Here are the selected project topics based on the submitted proposals. Please read the anonymized sample proposals carefully and then submit your project preferences by Jan 12, 2:30pm [here](https://canvas.uw.edu/courses/946041/quizzes/816121). Note that the proposals provide a rough scope of the project topic and problem space; any solution discussed in the posted proposals should be ignored. The teaching staff will have additional conditions and suggestions for each project. Try to prioritize projects you are excited about rather than ones you think would be easy; we will make sure all projects are equally difficult/easy :-) 
 
-- Prescription drugs: [proposal1](projects/drug1.pdf) [proposal2](projects/drug2.pdf)
+- Prescription drugs: [proposal1](projects/drug1.pdf) [proposal2](projects/drug2.pdf) <br>
+__Zoe Brants, Jorge Fernandez, David Phillips, Svetlana Grabar__
 
-- Eldercare: [proposal1](projects/eldercare1.pdf) [proposal2](projects/eldercare2.pdf)
+- Eldercare: [proposal1](projects/eldercare1.pdf) [proposal2](projects/eldercare2.pdf) <br>
+__Ty Overby, Laura McFarlane, Tiffany Lin, Amber Ami__
 
-- Sunlight exposure: [proposal](projects/sunlight.pdf)
+- Sunlight exposure: [proposal](projects/sunlight.pdf) <br>
+__Reggie Jones, Evan Leon, Eric Nhan, Megan Rawley__
 
-- Pet informatics:  [proposal1](projects/pets1.pdf) [proposal2](projects/pets2.pdf)
+- Pet informatics:  [proposal1](projects/pets1.pdf) [proposal2](projects/pets2.pdf) <br>
+__Micaela Tolliver, Ethan Goldman-Kirst, Megan Drasnin, Isaac Kuek__
 
-- Speech patterns: [proposal](projects/speech.pdf)
+- Speech patterns: [proposal](projects/speech.pdf) <br>
+__Alireza Hashemloo, Ying Set, Justin Lee, Samantha Gallagher__
 
-- Maintaining relationships: [proposal1](projects/relationships1.pdf) [proposal2](projects/relationships2.pdf)
+- Maintaining relationships: [proposal1](projects/relationships1.pdf) [proposal2](projects/relationships2.pdf) <br>
+__Thomas Phan, Luis Flores, Christopher Blappert, Joel Sigo__
 
-- Food spoilage:  [proposal](projects/food_spoilage.pdf)
+- Food spoilage:  [proposal](projects/food_spoilage.pdf) <br>
+__Nicholas Holden, Colin Miller, Brian Hoang, Francis Nguyen__
 
-- GI symptoms: [proposal](projects/gi_symptoms.pdf)
+- GI symptoms: [proposal](projects/gi_symptoms.pdf) <br>
+__Menhquiao Han, David Liang, Andrew Donaldson, Sreedev Sidharthan__
 
-- Success in a course:  [proposal](projects/course_success.pdf)
+- Success in a course:  [proposal](projects/course_success.pdf) <br>
+__Jiayang Zhou, Senhout Lim, Hang Yin, Yepingzhi Kuang__
 
-- Decision making:  [proposal](projects/decisions.pdf)
+- Decision making:  [proposal](projects/decisions.pdf) <br>
+__Lily Dwyer, Melissa Chan, Yuyang Fan, Arnavi Chheda__
 
-- Habits:  [proposal1](projects/habbits1.pdf) [proposal2](projects/habbits2.pdf)
+- Habits:  [proposal1](projects/habbits1.pdf) [proposal2](projects/habbits2.pdf) <br>
+__Jian Zhao, Marco Vertucci, Nicole Atherly, Chenmin Liu__
 
-- Mood factors: [proposal](projects/mood_factors.pdf)
+- Mood factors: [proposal](projects/mood_factors.pdf) <br>
+__Yinqui Chen, Oscar Wong, Ki Yeung, Nina Dang__
 
-- Alcohol intake: [proposal1](projects/alcohol1.pdf) [proposal2](projects/alcohol2.pdf) [proposal3](projects/alcohol3.pdf) [proposal4](projects/alcohol4.pdf)
-
+- Alcohol intake: [proposal1](projects/alcohol1.pdf) [proposal2](projects/alcohol2.pdf) [proposal3](projects/alcohol3.pdf) [proposal4](projects/alcohol4.pdf) <br>
+__Stephen Lee, Kristie Tsao, Hoang-Lien Nguyen, Lance Ogoshi__
 
 ---
 

@@ -8,7 +8,7 @@ locations:
       location: "EEB 045"
   sections:
     - time: "10:30 - 11:20"
-      location: "MUE 154"
+      location: "MGH 287"
     - time: "1:30 - 2:20"
       location: "MGH 254"
   postersession:
@@ -31,12 +31,14 @@ holidays:
 
 lectures:
   - date: "2015-01-06"
-    name: "Introduction,<br> Personal Informatics,<br> Brainstorming"
+    name: "Introduction,<br> Design diamond,<br> Personal Informatics"
     slides: "slides/Lecture1.pdf"
   - date: "2015-01-08"
     name: "Critique"
+    slides: "slides/Lecture2.pdf"
   - date: "2015-01-13"
-    name: "Design triangle, <br> Teamwork, <br> Needfinding"
+    name: "Brainstorming, <br> Teamwork"
+    slides: "slides/Lecture3.pdf"
   - date: "2015-01-15"
     name: "Contextual Inquiry"
     # notes: "Required for Project 2a, CI Planning Over Weekend"
@@ -74,6 +76,7 @@ lectures:
 
 sections:
   - date: "2015-01-09"
+    name: "In context observation"
   - date: "2015-01-16"
   - date: "2015-01-23"
   - date: "2015-01-30"
@@ -99,7 +102,7 @@ assignments:
     link: "assignments/assignment1/#assignment1c"
   - date: "2015-01-13"
     name: "2a - Project Ideation"
-    # link: "assignments/assignment2/#project_ideation"
+    link: "assignments/assignment2/#assignment2a"
   - date: "2015-01-16"
     name: "2b - CI Plan"
     # link: "assignments/assignment2/#contextual_inquiry_plan"

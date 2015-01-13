@@ -85,7 +85,7 @@ Projects are organized around four main assignments, each consistent of several 
 
 - Group Project (__65%__)
   - [Assignment 1, Project Proposal]({{ site.baseurl }}/assignments/assignment1/) (__5%__)
-  - Assignment 2, Getting the Right Design (__20%__)
+  - [Assignment 2, Getting the Right Design]({{ site.baseurl }}/assignments/assignment2/) (__20%__)
     - Milestones (__5%__)
     - Report (__10%__)
     - Presentation (__5%__)
