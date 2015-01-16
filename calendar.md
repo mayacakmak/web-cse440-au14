@@ -106,9 +106,12 @@ layout: default
                 {% if currentsection.slides != nil %}
                   <a href="{{ site.baseurl }}/{{ currentsection.slides }}">
                 {% endif %}
-                  Section<br>
+                  <b> Sections </b> <br>
                 {% if currentsection.slides != nil %}
                   </a>
+                {% endif %}
+            	{% if currentsection.name != nil %}
+                  <i>{{ currentsection.name }} </i><br>
                 {% endif %}
                 <small>
                   {% for currentlocationitem in site.data.calendar.locations[currentlocation] %}
@@ -118,13 +121,24 @@ layout: default
                 </small>
               </td>
             </tr>
-            {% if currentsection.name != nil %}
-              <tr class="section">
-                <td colspan="2">
-                  {{ currentsection.name }}<br>
-                </td>
-              </tr>
-            {% endif %}
+          {% endif %}
+        {% endfor %}
+
+        {% for currentreading in site.data.calendar.readings %}
+          {% if currentdate == currentreading.date %}
+            <tr class="reading table-condensed">
+              <td>
+                <small>
+                {% if currentreading.link != nil %}
+                  <a href="{{ site.baseurl }}/{{ currentreading.link }}">
+                {% endif %}
+                    {{ currentreading.name }}<br>
+                {% if currentreading.link != nil %}
+                  </a>
+                {% endif %}
+                </small>
+              </td>
+            </tr>
           {% endif %}
         {% endfor %}
 
@@ -134,7 +148,7 @@ layout: default
             <tr class="major">
               <td>
                 {% if currentmajor.link != nil %}<a href="{{ site.baseurl }}/{{ currentmajor.link }}">{% endif %}
-                  {{ currentmajor.name }}<br>
+                  <b> {{ currentmajor.name }} </b> <br>
                   {% if currentmajor.link != nil %}</a>{% endif %}
                 <small>
                   {% for currentlocationitem in site.data.calendar.locations[currentlocation] %}

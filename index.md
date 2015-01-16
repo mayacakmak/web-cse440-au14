@@ -49,8 +49,7 @@ __Section times & locations__: Fridays, two separate sections:
 
 __Office Hours__:  Scheduled hours are held most weeks, but check the calendar. Other meetings by appointment.
 
- - Maya - TBA
- - Matt - TBA
+ - Maya - Mondays 1:30-2:30pm at CSE 542
 
 ---
 

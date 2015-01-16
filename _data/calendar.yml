@@ -15,7 +15,7 @@ locations:
     - time: "10:30 - 12:20"
       location: "CSE Atrium"
   officehoursmaya:
-    - time: "2:00 - 3:00"
+    - time: "1:30 - 2:30"
       location: "CSE 542"
   officehoursmatt:
     - time: "12:00 - 1:00"
@@ -29,6 +29,20 @@ holidays:
   - date: "2015-02-23"
     name: "WEEK 8"
 
+readings:
+  - date: "2015-01-13"
+    name: "Kelley - Brainstorming"
+    link: "readings/Kelley_brainstorm.pdf"
+  - date: "2015-01-13"
+    name: "Katzenbach & Smith - Teamwork"
+    link: "readings/DisciplineOfTeams-KatzenbachSmith.htm"
+  #- date: "2015-01-14"
+  #  name: "Pausch - Teamwork"
+  #  link: "readings/WorkingInGroups-Pausch.html"
+  - date: "2015-01-15"
+    name: "Beyer & Holtzblatt - Contextual Inquiry"
+    link: "readings/ContextualInquiry-BeyerHoltzblatt1997.pdf"
+
 lectures:
   - date: "2015-01-06"
     name: "Introduction,<br> Design diamond,<br> Personal Informatics"
@@ -41,6 +55,7 @@ lectures:
     slides: "slides/Lecture3.pdf"
   - date: "2015-01-15"
     name: "Contextual Inquiry"
+    slides: "slides/Lecture4.pdf"
     # notes: "Required for Project 2a, CI Planning Over Weekend"
   - date: "2015-01-20"
     name: "Users and Tasks"
@@ -78,6 +93,7 @@ sections:
   - date: "2015-01-09"
     name: "In context observation"
   - date: "2015-01-16"
+    name: "CI plan critique"
   - date: "2015-01-23"
   - date: "2015-01-30"
   - date: "2015-02-13"
@@ -86,7 +102,28 @@ sections:
   - date: "2015-03-13"
 
 officehours:
-  - date: "2015-09-30"
+  - date: "2015-01-12"
+    name: "Maya Office Hour"
+    location: officehoursmaya
+  - date: "2015-01-26"
+    name: "Maya Office Hour"
+    location: officehoursmaya
+  - date: "2015-02-02"
+    name: "Maya Office Hour"
+    location: officehoursmaya
+  - date: "2015-02-09"
+    name: "Maya Office Hour"
+    location: officehoursmaya
+  - date: "2015-02-16"
+    name: "Maya Office Hour"
+    location: officehoursmaya
+  - date: "2015-02-23"
+    name: "Maya Office Hour"
+    location: officehoursmaya
+  - date: "2015-03-09"
+    name: "Maya Office Hour"
+    location: officehoursmaya
+  - date: "2015-03-16"
     name: "Maya Office Hour"
     location: officehoursmaya
 
@@ -105,10 +142,10 @@ assignments:
     link: "assignments/assignment2/#assignment2a"
   - date: "2015-01-16"
     name: "2b - CI Plan"
-    # link: "assignments/assignment2/#contextual_inquiry_plan"
+    link: "assignments/assignment2/#assignment2b"
   - date: "2015-01-20"
     name: "2c - CI Check-In"
-    # link: "assignments/assignment2/#contextual_inquiry_checkin"
+    link: "assignments/assignment2/#assignment2c"
   - date: "2015-01-23"
     name: "2d - CI Review"
     # link: "assignments/assignment2/#contextual_inquiry_review"

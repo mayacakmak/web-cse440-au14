@@ -14,7 +14,7 @@ Here are the selected project topics based on the submitted proposals. Please re
 __Zoe Brants, Jorge Fernandez, David Phillips, Svetlana Grabar__
 
 - Eldercare: [proposal1](projects/eldercare1.pdf) [proposal2](projects/eldercare2.pdf) <br>
-__Ty Overby, Laura McFarlane, Tiffany Lin, Amber Ami__
+__Ty Overby, Laura McFarlane, Tiffany Lin, Amber Amin__
 
 - Sunlight exposure: [proposal](projects/sunlight.pdf) <br>
 __Reggie Jones, Evan Leon, Eric Nhan, Megan Rawley__
@@ -35,7 +35,7 @@ __Nicholas Holden, Colin Miller, Brian Hoang, Francis Nguyen__
 __Menhquiao Han, David Liang, Andrew Donaldson, Sreedev Sidharthan__
 
 - Success in a course:  [proposal](projects/course_success.pdf) <br>
-__Jiayang Zhou, Senhout Lim, Hang Yin, Yepingzhi Kuang__
+__Jiayang Zhou, Senghout Lim, Hang Yin, Yepingzhi Kuang__
 
 - Decision making:  [proposal](projects/decisions.pdf) <br>
 __Lily Dwyer, Melissa Chan, Yuyang Fan, Arnavi Chheda__

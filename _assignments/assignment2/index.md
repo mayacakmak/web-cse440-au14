@@ -3,6 +3,9 @@
 layout: default
 title: "Assignment 2: Getting the Right Design"
 
+link_assignment2b: https://canvas.uw.edu/courses/946041/assignments/2741095
+link_assignment2c: https://canvas.uw.edu/courses/946041/assignments/2741097
+
 ---
 
 # Assignment 2: Getting the Right Design
@@ -20,8 +23,8 @@ It is worth __20%__ of your overall course grade:
 
 - __5%__ for the milestones 
   - __0.5%__ for [Assignment 2a: Project Ideation](#assignment2a) 
-  - __0.5%__ for Assignment 2b: Contextual Inquiry Plan
-  - __0.5%__ for Assignment 2c: Contextual Inquiry Check-In
+  - __0.5%__ for [Assignment 2b: Contextual Inquiry Plan](#assignment2b)
+  - __0.5%__ for [Assignment 2c: Contextual Inquiry Check-In](#assignment2c)
   - __1%__ for Assignment 2d: Contextual Inquiry Review
   - __1%__ for Assignment 2e: Task Review
   - __0.5%__ for Assignment 2f: Design Check-In ("3x4")
@@ -79,11 +82,11 @@ More specifically, you will do the following:
     
 6. Summarize your design process in a report and presentation.
 
----
 
 <a name="assignment2a"></a>
+---
 
-## Deliverable 2a: Project Ideation -- Due: in class, Jan 13, Tue
+## Deliverable 2a: Project Ideation -- Due: Tuesday in class, Jan 13
 
 Generate 64 different ideas related to your project, including:
 
@@ -111,7 +114,87 @@ You will be able to take your paper with you, and you should continue brainstorm
 
 ### Grading
 
-This milestone is worth 0.5% of your grade and will be graded based on a good-faith attempt to generate ideas during the ideation brainstorming exercise.
+This milestone is worth 0.5% of your total grade and will be graded based on a good-faith attempt to generate ideas during the ideation brainstorming exercise.
+
+
+<a name="assignment2b"></a>
 
 ---
+
+## 2b: Contextual Inquiry Plan -- Due: Jan 16, 4:00am
+
+In one paragraph, describe the people who might use your design and other stakeholders for your design. 
+Describe the particular contextual inquiry participants you plan to pursue, 
+including some details of their background and the environment where you will observe their current practices. 
+Give enough details to convince us that you can actually find and interview your target participants in the next week. 
+
+For example, your target participants should not be "doctors" but instead a specific group of doctors 
+(e.g., Family Practitioners in the UW Roosevelt Clinic). 
+If gaining access to the target participants is non-trivial (e.g., as with busy doctors), 
+describe the steps you have taken to gain access and your plans to recover if you are unable to gain access. 
+Indicate when you will be conducting your three inquiries, being as specific as possible.
+
+In another paragraph, describe how you will interact with your participants and your role as the "apprentice".
+ 
+- Will you be observing their current behaviors?
+- Will you be interviewing them about recent behaviors?
+ 
+Please be as specific as possible, providing potential examples of your observation focus or interview questions.
+
+### Submission
+
+No more than one page of text in PDF format. Submit via Canvas here:
+
+{% if page.link_assignment2b != nil %}<{{ page.link_assignment2b }}>{% else %}`Canvas link to be added`{% endif %}
+
+In section, be prepared to discuss the plan with other teams and the course staff.
+
+### Grading
+
+This milestone is worth 0.5% of your total grade and will be graded based on:
+
+1. __People and Plan__: (60%)
+2. __Feasibility__: (20%)
+3. __Specificity__: (20%)
+
+
+<a name="assignment2c"></a>
+
+---
+
+## 2c: Contextual Inquiry Check-In -- Due: Jan 20, 4:00am
+
+Complete at least one contextual inquiry prior to this check-in. 
+You hopefully learned something about the needs of people who might use your design, but also about how to conduct a contextual inquiry.
+
+Describe your first inquiry: 
+
+- Who you observed or interviewed, their background, and the environment.
+- What did you learn? 
+- What tasks, problems, or opportunities did you uncover? 
+- Did you encounter any difficulties establishing rapport or getting the information you need?
+
+Discuss what remains to be pursued after your first inquiry. We fully expect changes will be necessary, as inquiries 
+can be difficult to get right and often important topics are left unresolved. 
+
+- What are your plans for the remaining inquiries? 
+- How do you plan to change your protocol based on what you learned in your first inquiry?
+
+###Submission
+
+No more than one page of text in PDF format. Submit via Canvas here:
+
+{% if page.link_assignment2c != nil %}<{{ page.link_assignment2c }}>{% else %}`Canvas link to be added`{% endif %}
+
+In the class, be prepared to discuss your contextual inquiry with other teams and the course staff.
+
+### Grading
+
+This milestone is worth 0.5% of your total grade and will be graded based on:
+
+1. __Information from First Participant__: (60%)
+2. __Plan for Remaining Participants__: (40%)
+
+---
+
 
